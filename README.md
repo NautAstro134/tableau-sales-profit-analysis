@@ -1,4 +1,4 @@
-# Project 4 — Superstore Sales & Profit Analysis
+﻿# Superstore Sales & Profit Analysis
 
 ## Overview
 An interactive Tableau dashboard analyzing Superstore sales, profitability, regional performance, product categories, and monthly sales trends.
@@ -9,7 +9,7 @@ An interactive Tableau dashboard analyzing Superstore sales, profitability, regi
 - Sales and profitability analysis
 
 ## Dashboard
-![Project 4 — Tableau Sales & Profit Dashboard](Project4_Dashboard.png)
+![Project 4 — Tableau Sales & Profit Dashboard](Tableau_Sales_Profit_Dashboard.png)
 [View Interactive Tableau Dashboard](https://public.tableau.com/views/Project_4_Tableau_17916458019900/SuperstoreSalesProfitDashboard)
 
 ## Analysis
@@ -27,3 +27,4 @@ An interactive Tableau dashboard analyzing Superstore sales, profitability, regi
 
 ## Project Goal
 Demonstrate practical Tableau dashboard development, business performance analysis, and the ability to communicate findings through interactive visualizations.
+
