@@ -30,7 +30,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='sample_-_superstore' name='excel-direct.1b27sav0mfyqux14jdwrg10dow1f'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/ram1/Downloads/sample_-_superstore.xls' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='data/Sample - Superstore.xls' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <relation connection='excel-direct.1b27sav0mfyqux14jdwrg10dow1f' name='Orders' table='[Orders$]' type='table'>
